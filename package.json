@@ -693,7 +693,7 @@
 		"terser": "^5.27.0"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.85.0",
+		"@types/vscode": "^1.102.0",
 		"@vscode/test-electron": "^2.5.2"
 	}
 }
