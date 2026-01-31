@@ -690,7 +690,7 @@
 	"dependencies": {
 		"clean-css": ">=3.4.19",
 		"html-minifier": ">=3.0.3",
-		"terser": "^5.27.0"
+		"terser": "^5.43.1"
 	},
 	"devDependencies": {
 		"@types/vscode": "^1.85.0",
