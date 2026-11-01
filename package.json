@@ -1,6 +1,6 @@
 {
-	"name": "minify",
-	"displayName": "Minify",
+	"name": "minify-2",
+	"displayName": "Minify-2",
 	"description": "Minify for VS Code.\nMinify with command, and (optionally) re-minify on save.",
 	"version": "0.8.0-dev",
 	"publisher": "Maingron",
@@ -22,7 +22,7 @@
 		"color": "#eedd00",
 		"theme": "light"
 	},
-	"homepage": "https://github.com/Maingron/VSCodeMinify",
+	"homepage": "https://github.com/Maingron/VSCodeMinify-2",
 	"keywords": [
 		"minify",
 		"uglify",
@@ -35,10 +35,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Maingron/VSCodeMinify.git"
+		"url": "https://github.com/Maingron/VSCodeMinify-2.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Maingron/VSCodeMinify/issues"
+		"url": "https://github.com/Maingron/VSCodeMinify-2/issues"
 	},
 	"main": "./extension",
 	"contributes": {
